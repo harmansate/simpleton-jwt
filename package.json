@@ -1,6 +1,6 @@
 {
   "name": "simpleton-jwt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Very simple node module for the purpose of teaching basic JWT ideas",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,8 @@
   },
   "homepage": "https://github.com/harmansate/simpleton-jwt#readme",
   "dependencies": {
+    "@harmansate/simple-sky": "^1.0.2",
+    "simple-loading-wave": "^0.0.2",
+    "simple-react-btn": "^1.0.1"
   }
 }
