@@ -1,0 +1,26 @@
+{
+  "name": "simpleton-jwt",
+  "version": "1.0.0",
+  "description": "Very simple node module for the purpose of teaching basic JWT ideas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harmansate/simpleton-jwt.git"
+  },
+  "keywords": [
+    "jwt",
+    "node",
+    "simple"
+  ],
+  "author": "@harmansate",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/harmansate/simpleton-jwt/issues"
+  },
+  "homepage": "https://github.com/harmansate/simpleton-jwt#readme",
+  "dependencies": {
+  }
+}
